@@ -6,4 +6,4 @@ pairs = [
          for b in items
          if a < b
 ]
-print(pairs)
+print(pairs);
